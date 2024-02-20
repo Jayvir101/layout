@@ -1,0 +1,134 @@
+#navbar{
+
+    background-color: #1f2937;
+    height: 70px;
+    width: auto;
+}
+#imagenav{
+    padding-right: 450px;
+    padding-left: 200px;
+    padding-top: 15px;
+}
+
+a{
+    padding-right: 20px;
+    padding-top: 5px;
+    text-decoration: none;
+    color: #E5E7EB;
+    display: inline-block;
+    text-size-adjust: 20px;
+}
+#maincontainer{
+    width: auto;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    background-color: #1f2937;
+}
+#boxleft{
+    height: 500px;
+    width: 800px;
+    padding: 50px;
+    color: #E5E7EB;
+}
+#boxright{
+    height: 500px;
+    width: 1100px;
+}
+#image1{
+    padding: 50px;
+    height: 200px;
+    width:500px
+}
+#paragraphh1{
+    color: #F9FAF8;
+    text-size-adjust: 48px;
+}
+p{
+    text-size-adjust: 18px;
+}
+#button1{
+    background-color: #3882F6;
+    border-radius: 5px;
+    color: #F9FAF8;
+    border-color: #3882F6;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-decoration: solid;
+}
+#section2{
+    display: flex;
+    width: 1424px;
+    height: 300px;
+    flex-direction: row;
+}
+#smallimg{
+    width: 100px;
+    height: 100px;
+    padding-left: 200px;
+}
+#heading2{
+    text-align: center;
+}
+figure{
+    margin: auto;
+}
+figcaption{
+    text-align: right;
+    padding-right: 50px;
+}
+#section3{
+
+    background-color: #E5E7EB;
+    display: flex;
+    width: auto;
+    height: 300px;
+    justify-content: center;
+    padding: 100px;
+    font-size: 36px;
+}
+#quote{
+
+    text-size-adjust: 36px;
+    font-style: italic;
+}
+#by{
+
+    align-items: right;
+    font: bold;
+}
+#section4{
+
+    display: flex;
+    width: auto;
+    height: 300px;
+    justify-content: center;
+    padding-top: 55px;
+    padding-bottom: 55px;
+
+}
+
+#section4inner{
+
+    background-color: #3882f6;
+    padding: 55px;
+    width: 800px;
+    border-radius: 20px;
+    color: #F9FAF8;
+}
+
+#button2{
+
+    background-color: #3882F6;
+    color: #F9FAF8;
+    border-radius: 20px;
+    display: inline-block;
+}
+footer{
+    text-align: center;
+    background-color: #1f2937;
+    color: #E5E7EB;
+}
